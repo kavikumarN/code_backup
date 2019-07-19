@@ -97,4 +97,4 @@ using namespace log4cxx::helpers;
         return 0;
     }
 
-    // g++ delimiter.cpp -fopenmp  -lapr-1 -laprutil-1 -llog4cxx -o delim
+    // //g++ delimiter.cpp -fopenmp  -lapr-1 -laprutil-1 -llog4cxx -o delim
